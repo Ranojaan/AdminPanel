@@ -1,8 +1,15 @@
-# React + Vite
+## Supermarket Admin Panel
+Welcome to the Supermarket Admin Panel repository! This basic admin panel is designed using React.js and Vite, providing a responsive platform for managing supermarket-related data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Technologies Used: Built with React.js and Vite, utilizing packages like Recharts and React Icons for enhanced functionality.
+Responsive Design: Ensures compatibility across various devices for a seamless user experience.
+Basic Functionality: Provides a foundational structure for managing supermarket data, with room for further development.
 
-Currently, two official plugins are available:
+Technologies Used :
+React.js
+Vite
+Recharts
+React Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Admin dashboard](https://github.com/Ranojaan/AdminPanel/assets/50835745/41acf3b5-ee21-470e-8f38-fc00b203e2e7)
